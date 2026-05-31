@@ -1,0 +1,8 @@
+{
+  "chainId": 5042002,
+  "rpc": "https://rpc.testnet.arc.network",
+  "contract": "ArcChithuy9345GifProofHub",
+  "address": "0x54543DeDFc9742144aaCf6c8d9cb1DE3A9Bcc00B",
+  "txHash": "0xaded3bb43355328402829189a581b9f0ba411d24c968a6c810cfd9c61fd016d6",
+  "deployer": "0xF226712E3Bb91156E985eb995E1ae524Ca8896EC"
+}
