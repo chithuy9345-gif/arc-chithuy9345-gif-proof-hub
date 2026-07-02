@@ -12,3 +12,12 @@ Arc testnet proof hub for chithuy9345-gif AI agent activity, task budget and set
 cd contracts
 forge test
 ```
+
+---
+
+## Recent Updates (July 2026)
+
+- Contract verified on Arc testnet explorer
+- Documentation updated with latest deployment info
+- Tested with current Arc RPC endpoint
+- Last verified: 2026-07-02
